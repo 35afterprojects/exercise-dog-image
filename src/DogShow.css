@@ -1,0 +1,25 @@
+.dog-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  border: 1px solid black;
+}
+
+.dog-image-list {
+ height: 30vh;
+ width: 30vh;
+}
+
+.dog-list-item {
+  align-self:center;
+  padding: 1vh;
+}
+
+.dog-current {
+ height: 70vh;
+ width: 100vh;
+}
+
+.message-load {
+  font-size: 10vh;
+}
